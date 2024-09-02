@@ -14,6 +14,6 @@ class TriangleChecker:
         else:
             return "Трегуольник не выйдет ("
 
+
 triangle = TriangleChecker(3, 4, 5)
 print(triangle.is_triangle())  # Вывод: 'С такими параметрами можно построить треугольник!'
-
