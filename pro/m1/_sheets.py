@@ -22,11 +22,11 @@ note.play()  # Вывод: ре-о
 note = Note('ми')
 note.play()  # Вывод: ми
 note = Note('фа', True)
-note.play()  # Вывод: фа-а
+note.play()  # Вывод: фа-о
 note = Note('соль')
 note.play()  # Вывод: соль
 note = Note('ля', True)
-note.play()  # Вывод: ля-а
+note.play()  # Вывод: ля-о
 note = Note('си')
 note.play()  # Вывод: си
 
